@@ -6,8 +6,9 @@
     font-size: 45px;
 }
 .custom-height{
-    min-height: 650px;
+    height: 650px;
     width: 100%;
+    
 }
 .bright
 {
