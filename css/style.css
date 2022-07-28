@@ -5,3 +5,12 @@
 .font-size-h1{
     font-size: 45px;
 }
+.custom-height{
+    max-height: 700px;
+    width: 100%;
+}
+.bright
+{
+
+filter:brightness(50%);
+}
