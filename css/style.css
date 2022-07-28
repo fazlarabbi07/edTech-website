@@ -20,3 +20,7 @@ filter:brightness(50%);
     background-color:#289BDE;
     border-radius: 5px;
 }
+.imgdimension{
+    width: 10px;
+    height: 10px;
+}
